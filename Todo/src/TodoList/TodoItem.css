@@ -1,0 +1,36 @@
+.listDiv{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    padding: 0px 20px;
+    align-items: center;
+    border-bottom: 2.5px solid lightgray;
+}
+.checkInp{
+    margin-right: 10px;
+}
+.textList{
+    position: relative;
+    width: 100%;
+    font-size: 22px;
+}
+.closer{
+    position: absolute;
+    right: 0px;
+    font-size: 15px;
+    font-weight: 800;
+    cursor: pointer;
+    border: 0px solid;
+    background-color: white; 
+}
+  
+
+
+
+
+
+
+
+
+
+

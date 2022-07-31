@@ -1,0 +1,12 @@
+.footerInfoAndBtn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+    height: 60px;
+}
+.clearSpan{
+    border: 0px solid;
+    padding: 5px;
+    background-color: #80808070;
+}
