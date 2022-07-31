@@ -1,0 +1,62 @@
+.form-control{
+    margin: 0px 0px 10px; 
+}
+.labelFor{
+    margin-bottom: 2px !important;
+    margin-top: 10px;
+    font-size: 17px;
+    font-weight: 600;
+    color: dodgerblue;
+}
+.btnPostInfo{
+    margin-top: 10px;
+}
+
+.containerTable{
+    margin-top: 50px;
+}
+.infoTable{
+    width: 100%;
+    border: 2px solid grey;
+    box-shadow: 0px 0px 20px 5px lightgrey;
+    margin-bottom: 50px;
+}
+.infoTable td{
+    border: 1.5px solid grey;
+    text-align: center;
+    padding: 10px;
+}
+.tdHead{
+    background-color: #d3d3d37d;
+    font-weight: 700;
+}
+.tdEditDel{
+    width: 60px;
+}
+.fa.fa-pencil{
+    font-size: 20px;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    margin: 5px;
+    padding: 5px 5.5px;
+    border-radius: 3px;
+}
+.fa.fa-close{
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    margin: 5px;
+    padding: 5px 6px;
+    border-radius: 3px;
+}
+.saveRow{
+    font-size: 20px;
+    background-color: dodgerblue;
+    color: white;
+    cursor: pointer;
+    margin: 5px;
+    padding: 5px 4px;
+    border-radius: 3px;
+}
